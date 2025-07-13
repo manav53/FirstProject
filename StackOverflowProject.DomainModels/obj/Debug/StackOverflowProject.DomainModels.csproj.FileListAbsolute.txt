@@ -1,0 +1,13 @@
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll.config
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.pdb
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.dll
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\System.ComponentModel.Annotations.dll
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.xml
+D:\WorkSpace2\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.AssemblyReference.cache
+D:\WorkSpace2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.CoreCompileInputs.cache
+D:\WorkSpace2\StackOverflowProject.DomainModels\obj\Debug\StackOve.D6B0DDD6.Up2Date
+D:\WorkSpace2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.dll
+D:\WorkSpace2\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.pdb
