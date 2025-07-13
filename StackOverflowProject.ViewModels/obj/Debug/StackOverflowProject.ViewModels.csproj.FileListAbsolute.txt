@@ -1,0 +1,8 @@
+D:\WorkSpace2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.AssemblyReference.cache
+D:\WorkSpace2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CoreCompileInputs.cache
+D:\WorkSpace2\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll
+D:\WorkSpace2\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.pdb
+D:\WorkSpace2\StackOverflowProject.ViewModels\bin\Debug\System.ComponentModel.Annotations.dll
+D:\WorkSpace2\StackOverflowProject.ViewModels\obj\Debug\StackOve.EEB00F53.Up2Date
+D:\WorkSpace2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
+D:\WorkSpace2\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
